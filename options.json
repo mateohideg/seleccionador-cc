@@ -1,0 +1,38 @@
+[
+    {
+        "text": "Opción normal #1",
+        "special": false
+    },
+    {
+        "text": "Opción normal #2",
+        "special": false
+    },
+    {
+        "text": "Opción especial #5",
+        "special": false
+    },
+    {
+        "text": "Opción normal #4",
+        "special": false
+    },
+    {
+        "text": "Opción especial #1",
+        "special": true,
+        "videoActivity": "/sample.mp4"
+    },
+    {
+        "text": "Opción especial #2",
+        "special": true,
+        "videoActivity": "/sample.mp4"
+    },
+    {
+        "text": "Opción especial #3",
+        "special": true,
+        "videoActivity": "/sample.mp4"
+    },
+    {
+        "text": "Opción especial #4",
+        "special": true,
+        "videoActivity": "/sample.mp4"
+    }
+]
