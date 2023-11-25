@@ -9,4 +9,4 @@ Para configurar Seleccionador CC localmente, sigue estos pasos:
 2. Dirígete al directorio del proyecto.
 3. Ejecuta `npm install` para instalar las dependencias.
 4. Configura `options.json` siguiendo la plantilla, y copia los videos a la carpeta `public`.
-5. Ejecuta `npm dev` para iniciar la aplicación en modo de desarrollo.
+5. Ejecuta `npm build` para compilar la aplicación, o `npm run dev` para iniciarla en modo de desarrollo.
